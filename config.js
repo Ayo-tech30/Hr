@@ -32,7 +32,7 @@ module.exports = {
   STICKER_AUTHOR: 'Sʜᴀᴅᴏᴡ Gᴀʀᴅᴇɴ',
 
   // MENU IMAGE PATH - Put your image at: assets/delta.jpg
-  MENU_IMAGE: './assets/delta.jpg',
+  MENU_IMAGE: './assets/c7448c3f7f037d1d1c5e41df3a481cb2.jpg',
 
   // Session folder
   SESSION_FOLDER: './sessions',
@@ -43,7 +43,7 @@ module.exports = {
 
   // 🤖 Anthropic Claude API Key (for .ai / .ask / .gpt commands)
   // Get it FREE at: https://console.anthropic.com/
-  ANTHROPIC_API_KEY: 'ANTHROPIC_API_KEY',
+  ANTHROPIC_API_KEY: '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',
 
   // Remove.bg API Key (for background removal - optional)
   REMOVEBG_API_KEY: 'YOUR_REMOVEBG_KEY_HERE',

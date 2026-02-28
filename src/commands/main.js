@@ -268,7 +268,7 @@ module.exports = {
       .replace(/\{user\}/g, userName)
       .replace('{uptime}', formatUptime(Date.now() - startTime));
 
-    const imgPath = path.join(__dirname, '../../assets/delta.jpg');
+    const imgPath = path.join(__dirname, '../../assets/c7448c3f7f037d1d1c5e41df3a481cb2.jpg');
 
     if (fs.existsSync(imgPath)) {
       const imgBuffer = fs.readFileSync(imgPath);

@@ -1,0 +1,20 @@
+{
+  "name": "shadow-garden-bot",
+  "version": "2.1.0",
+  "description": "Shadow Garden WhatsApp Bot — Powered by Claude AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "axios": "^1.6.0",
+    "sharp": "^0.33.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "pino": "^8.17.0",
+    "node-cache": "^5.1.2",
+    "moment": "^2.30.1",
+    "ytdl-core": "^4.11.5"
+  }
+}
